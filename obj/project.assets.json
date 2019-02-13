@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/home/wynand/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\wynan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wynand/projects/csPractice/csPractice.csproj",
+      "projectUniqueName": "C:\\Users\\wynan\\Documents\\Code\\csPractice\\csPractice.csproj",
       "projectName": "csPractice",
-      "projectPath": "/home/wynand/projects/csPractice/csPractice.csproj",
-      "packagesPath": "/home/wynand/.nuget/packages/",
-      "outputPath": "/home/wynand/projects/csPractice/obj/",
+      "projectPath": "C:\\Users\\wynan\\Documents\\Code\\csPractice\\csPractice.csproj",
+      "packagesPath": "C:\\Users\\wynan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wynan\\Documents\\Code\\csPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/wynand/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\wynan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
